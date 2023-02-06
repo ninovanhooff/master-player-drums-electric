@@ -18,4 +18,5 @@ return {
     [55] = { path="key55-Splash cymbal.wav" },
     [57] = { path="key57-crash cymbal 2.wav" },
     [59] = { path="key59-Ride cymbal 2.wav" },
+    name="Drums-E"
 }
